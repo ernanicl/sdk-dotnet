@@ -1,0 +1,10 @@
+C:\dev\sdk-dotnet\src\bin\Debug\net8.0\maxiPago.deps.json
+C:\dev\sdk-dotnet\src\bin\Debug\net8.0\maxiPago.dll
+C:\dev\sdk-dotnet\src\bin\Debug\net8.0\maxiPago.pdb
+C:\dev\sdk-dotnet\src\obj\Debug\net8.0\maxiPago.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\sdk-dotnet\src\obj\Debug\net8.0\maxiPago.csproj.CoreCompileInputs.cache
+C:\dev\sdk-dotnet\src\obj\Debug\net8.0\maxiPago.sourcelink.json
+C:\dev\sdk-dotnet\src\obj\Debug\net8.0\maxiPago.dll
+C:\dev\sdk-dotnet\src\obj\Debug\net8.0\refint\maxiPago.dll
+C:\dev\sdk-dotnet\src\obj\Debug\net8.0\maxiPago.pdb
+C:\dev\sdk-dotnet\src\obj\Debug\net8.0\ref\maxiPago.dll
